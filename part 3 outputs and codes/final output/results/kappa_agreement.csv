@@ -1,0 +1,4 @@
+Comparison,Cohen_Kappa
+Expert vs Model,0.6268656716417911
+Expert vs GT,0.2142857142857143
+Model vs GT,0.46153846153846156

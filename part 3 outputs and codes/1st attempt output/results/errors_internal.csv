@@ -1,0 +1,952 @@
+path,true,pred,conf,correct
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem222.jpg,0,2,0.3194417,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1196.jpg,0,0,0.46854323,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (28).jpg,0,0,0.45904744,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2059.jpg,0,0,0.39446568,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem885.jpg,0,0,0.50588334,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1893.jpg,0,0,0.3347236,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem308.jpg,0,2,0.3176401,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1175.jpg,0,0,0.44903255,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (40).jpg,0,0,0.46829733,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1464.jpg,0,0,0.3333013,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/29 (98).jpg,0,1,0.32515705,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem884.jpg,0,0,0.5181823,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1404.jpg,0,0,0.5336453,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem360.jpg,0,2,0.37409672,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem799.jpg,0,0,0.3591091,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (57).jpg,0,0,0.49734956,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2152.jpg,0,0,0.51648396,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1471.jpg,0,0,0.30303958,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem682.jpg,0,0,0.46999437,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem677.jpg,0,0,0.49932748,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1802.jpg,0,0,0.3000805,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1792.jpg,0,0,0.4342283,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem702.jpg,0,1,0.34208375,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1117.jpg,0,0,0.48390153,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem609.jpg,0,0,0.44945103,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem891.jpg,0,1,0.35578,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem433.jpg,0,0,0.5454933,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1536.jpg,0,0,0.38675383,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem575.jpg,0,0,0.47236228,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1745.jpg,0,0,0.3518122,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem31.jpg,0,1,0.33793256,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (53).jpg,0,0,0.4045749,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1917.jpg,0,0,0.42206424,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1690.jpg,0,0,0.45394933,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2204.jpg,0,0,0.5433777,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2516.jpg,0,0,0.37656185,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1127.jpg,0,0,0.48393592,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2079.jpg,0,0,0.45656046,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (66).jpg,0,0,0.48787406,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1013.jpg,0,0,0.33879155,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2472.jpg,0,0,0.34639466,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem739.jpg,0,0,0.36869234,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1673.jpg,0,0,0.4754846,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem470.jpg,0,0,0.35616937,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1753.jpg,0,1,0.34900513,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1933.jpg,0,0,0.5180361,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1137.jpg,0,0,0.5040607,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/30 (80).jpg,0,1,0.33350536,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem973.jpg,0,0,0.4731301,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem813.jpg,0,0,0.32532245,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/27 (79).jpg,0,0,0.50789064,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (3).jpg,0,1,0.3276687,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1122.jpg,0,2,0.3610317,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (36).jpg,0,0,0.46470585,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1054.jpg,0,0,0.3452784,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1119.jpg,0,0,0.39693353,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem636.jpg,0,0,0.37497315,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1696.jpg,0,0,0.48598,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem121.jpg,0,0,0.3078267,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem918.jpg,0,0,0.36530697,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem773.jpg,0,0,0.473782,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem879.jpg,0,0,0.45161605,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem105.jpg,0,0,0.45272756,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (36).jpg,0,0,0.39521936,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem976.jpg,0,0,0.47292152,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1108.jpg,0,2,0.33854273,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2127.jpg,0,0,0.53210706,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem419.jpg,0,0,0.3569605,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1454.jpg,0,1,0.31968555,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1768.jpg,0,1,0.33240008,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (27).jpg,0,0,0.38844323,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1949.jpg,0,0,0.40873572,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2347.jpg,0,2,0.33714756,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1786.jpg,0,0,0.47158507,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (86).jpg,0,0,0.4843316,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1303.jpg,0,0,0.5233765,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/26 (96).jpg,0,0,0.5309839,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2277.jpg,0,0,0.40313387,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1053.jpg,0,0,0.3540725,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem931.jpg,0,0,0.3513187,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (46).jpg,0,0,0.3540803,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (40).jpg,0,0,0.46175835,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem762.jpg,0,0,0.5246864,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1439.jpg,0,1,0.35727024,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2401.jpg,0,0,0.39639854,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/27 (67).jpg,0,0,0.41344407,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1598.jpg,0,0,0.37750065,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (46).jpg,0,0,0.41873372,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2547.jpg,0,0,0.397955,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem979.jpg,0,0,0.46564978,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1356.jpg,0,0,0.33252925,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem880.jpg,0,0,0.3642456,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1835.jpg,0,0,0.41221184,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1948.jpg,0,0,0.45529598,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem960.jpg,0,0,0.34817454,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem387.jpg,0,1,0.31530628,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem35.jpg,0,0,0.4244625,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/29 (14).jpg,0,0,0.46434295,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2012.jpg,0,0,0.4251496,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2062.jpg,0,0,0.45535827,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2266.jpg,0,2,0.3268499,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/29 (65).jpg,0,1,0.33610365,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2159.jpg,0,0,0.44606343,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1390.jpg,0,0,0.4773204,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1919.jpg,0,1,0.32096848,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem963.jpg,0,0,0.46718723,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (64).jpg,0,1,0.34242535,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem793.jpg,0,0,0.33277833,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem119.jpg,0,0,0.39962035,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem323.jpg,0,0,0.33000505,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2003.jpg,0,0,0.4746075,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem134.jpg,0,0,0.47975224,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem355.jpg,0,0,0.42548236,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1314.jpg,0,0,0.48390794,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1772.jpg,0,0,0.35213998,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem146.jpg,0,0,0.38022342,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (21).jpg,0,0,0.34490615,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2435.jpg,0,0,0.37628603,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2433.jpg,0,0,0.46388087,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2462.jpg,0,0,0.47732067,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem24.jpg,0,1,0.31217775,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1375.jpg,0,0,0.4717608,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1722.jpg,0,1,0.33645535,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem849.jpg,0,0,0.48614338,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1336.jpg,0,0,0.37277365,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/29 (100).jpg,0,0,0.43189952,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2366.jpg,0,0,0.3030031,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1376.jpg,0,0,0.493676,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2492.jpg,0,0,0.41819146,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem743.jpg,0,0,0.3328433,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1790.jpg,0,0,0.47037587,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2246.jpg,0,0,0.41299447,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem388.jpg,0,0,0.44154766,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1447.jpg,0,0,0.3489847,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2209.jpg,0,0,0.46009102,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2040.jpg,0,0,0.4060946,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1487.jpg,0,0,0.35673913,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/27 (19).jpg,0,0,0.53125983,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1897.jpg,0,2,0.30407384,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem125.jpg,0,0,0.5000429,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem157.jpg,0,0,0.393467,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1576.jpg,0,0,0.54766434,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/30 (44).jpg,0,0,0.555395,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1004.jpg,0,0,0.49470115,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2343.jpg,0,0,0.33937964,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1633.jpg,0,0,0.5251893,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/29 (3).jpg,0,1,0.3336128,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem787.jpg,0,0,0.34572256,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem530.jpg,0,0,0.44328657,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2414.jpg,0,0,0.44659036,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem63.jpg,0,0,0.39020327,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2259.jpg,0,0,0.43371707,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1553.jpg,0,0,0.33930194,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1616.jpg,0,0,0.36076254,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem614.jpg,0,0,0.4972388,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem757.jpg,0,0,0.44540414,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2199.jpg,0,1,0.31669003,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1957.jpg,0,0,0.3996029,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (65).jpg,0,1,0.33464208,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (89).jpg,0,1,0.3473626,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2114.jpg,0,0,0.50350976,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1368.jpg,0,1,0.3063061,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1999.jpg,0,0,0.3164907,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2394.jpg,0,0,0.36472514,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (87).jpg,0,0,0.5220591,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2002.jpg,0,1,0.30667856,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1407.jpg,0,0,0.4806086,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem481.jpg,0,0,0.4548146,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem55.jpg,0,0,0.46508887,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1936.jpg,0,0,0.4050646,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem615.jpg,0,2,0.32883123,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem169.jpg,0,0,0.35880792,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/30 (64).jpg,0,1,0.33995193,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1317.jpg,0,0,0.4202626,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem764.jpg,0,1,0.3123458,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1512.jpg,0,0,0.47667232,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1797.jpg,0,2,0.3148728,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (61).jpg,0,0,0.3856489,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (55).jpg,0,1,0.31463474,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/27 (15).jpg,0,1,0.32781306,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1459.jpg,0,0,0.4566919,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem77.jpg,0,0,0.42395434,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem474.jpg,0,0,0.44229394,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem216.jpg,0,1,0.34899312,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2501.jpg,0,1,0.3365598,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem379.jpg,0,0,0.4556496,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem980.jpg,0,1,0.3498629,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem651.jpg,0,0,0.39332044,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1518.jpg,0,0,0.34868285,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1890.jpg,0,0,0.43345618,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1858.jpg,0,0,0.46564263,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1865.jpg,0,0,0.43049574,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1756.jpg,0,1,0.3164843,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1905.jpg,0,0,0.5279777,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1972.jpg,0,0,0.33121383,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/30 (61).jpg,0,0,0.39693236,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (7).jpg,0,1,0.30356827,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem638.jpg,0,0,0.54347026,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem159.jpg,0,0,0.47759268,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/29 (8).jpg,0,0,0.3924611,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem462.jpg,0,0,0.5276226,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem878.jpg,0,0,0.39815053,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (20).jpg,0,0,0.43251225,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2374.jpg,0,0,0.39784962,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem986.jpg,0,0,0.50534004,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/26 (77).jpg,0,0,0.3749768,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1171.jpg,0,1,0.3374668,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem692.jpg,0,0,0.48158467,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2227.jpg,0,0,0.5546265,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (94).jpg,0,1,0.3322805,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1228.jpg,0,2,0.33930403,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (10).jpg,0,0,0.41118008,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1037.jpg,0,0,0.48826298,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem512.jpg,0,0,0.5060016,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem194.jpg,0,0,0.47384164,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/26 (95).jpg,0,0,0.40190855,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1649.jpg,0,0,0.4642514,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (66).jpg,0,0,0.47980723,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2386.jpg,0,0,0.4535307,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem696.jpg,0,0,0.45856628,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1852.jpg,0,0,0.47505718,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2117.jpg,0,0,0.42246827,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1584.jpg,0,0,0.52542704,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/27 (84).jpg,0,0,0.41389856,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/30 (45).jpg,0,0,0.38820633,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2047.jpg,0,1,0.3246905,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem923.jpg,0,0,0.34404615,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2256.jpg,0,1,0.31993306,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem826.jpg,0,1,0.33070803,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2406.jpg,0,2,0.31848234,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem542.jpg,0,0,0.39380547,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1283.jpg,0,0,0.44581205,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1950.jpg,0,0,0.33440554,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2400.jpg,0,0,0.39769208,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2280.jpg,0,1,0.36396757,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/26 (62).jpg,0,0,0.36796823,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem359.jpg,0,0,0.46857533,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem591.jpg,0,1,0.3417739,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1752.jpg,0,0,0.4785775,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem390.jpg,0,0,0.38705924,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem579.jpg,0,0,0.48099816,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2289.jpg,0,0,0.33921477,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1484.jpg,0,0,0.5299812,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (87).jpg,0,0,0.47094473,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem935.jpg,0,0,0.42132458,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem644.jpg,0,2,0.32811257,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (7).jpg,0,1,0.3380731,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem186.jpg,0,0,0.46356878,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/29 (58).jpg,0,0,0.3325913,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2185.jpg,0,0,0.5783418,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem192.jpg,0,0,0.44155273,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2181.jpg,0,0,0.47723034,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1362.jpg,0,0,0.5031104,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/29 (21).jpg,0,0,0.34217805,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1438.jpg,0,0,0.5527231,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/30 (56).jpg,0,1,0.37421724,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1455.jpg,0,0,0.46698913,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem427.jpg,0,0,0.5118053,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem71.jpg,0,0,0.36264035,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1759.jpg,0,0,0.43201056,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2299.jpg,0,1,0.33553222,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (98).jpg,0,1,0.33461645,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1798.jpg,0,0,0.3816852,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/27 (89).jpg,0,0,0.40933022,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem782.jpg,0,0,0.49517044,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (64).jpg,0,1,0.320125,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2530.jpg,0,1,0.3495808,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (75).jpg,0,1,0.35805285,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2278.jpg,0,0,0.38248432,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem901.jpg,0,0,0.44603938,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem999.jpg,0,1,0.3184321,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1900.jpg,0,0,0.42196774,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1050.jpg,0,1,0.34888446,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2036.jpg,0,0,0.38795316,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/27 (6).jpg,0,0,0.47913975,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1457.jpg,0,0,0.46155748,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (29).jpg,0,1,0.34308922,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem42.jpg,0,0,0.3556848,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2549.jpg,0,1,0.31761956,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem700.jpg,0,0,0.4283712,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1983.jpg,0,0,0.4958621,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem0.jpg,0,0,0.44990864,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem86.jpg,0,0,0.45628962,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1956.jpg,0,1,0.30087006,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1313.jpg,0,0,0.37523857,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem106.jpg,0,1,0.34216714,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2080.jpg,0,1,0.3528303,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (52).jpg,0,2,0.34940803,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/27 (91).jpg,0,0,0.3589906,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1347.jpg,0,0,0.3619574,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem649.jpg,0,0,0.5111939,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem90.jpg,0,0,0.4674204,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32.jpg,0,1,0.34315324,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (54).jpg,0,0,0.4422177,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2043.jpg,0,0,0.35931432,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem544.jpg,0,2,0.33633548,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem915.jpg,0,2,0.3328427,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem6.jpg,0,1,0.3566467,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1435.jpg,0,0,0.38938904,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1088.jpg,0,0,0.45292053,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2353.jpg,0,1,0.33708027,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (27).jpg,0,0,0.38707525,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2553.jpg,0,1,0.3325397,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem833.jpg,0,0,0.5295768,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (22).jpg,0,0,0.4470743,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1515.jpg,0,2,0.30301094,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1384.jpg,0,0,0.5150753,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2283.jpg,0,0,0.47004294,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem87.jpg,0,1,0.3418325,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem401.jpg,0,0,0.45210424,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2099.jpg,0,2,0.3100981,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2149.jpg,0,0,0.4195625,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem408.jpg,0,0,0.32384843,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem203.jpg,0,0,0.44661877,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1282.jpg,0,0,0.48414567,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1444.jpg,0,2,0.38627923,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1211.jpg,0,0,0.50318134,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1169.jpg,0,0,0.3726211,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem526.jpg,0,0,0.35908052,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2272.jpg,0,1,0.33415753,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1460.jpg,0,0,0.34451196,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/26 (82).jpg,0,1,0.361889,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/30 (63).jpg,0,0,0.39126992,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/27 (31).jpg,0,1,0.3404722,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem821.jpg,0,0,0.35996708,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1296.jpg,0,0,0.48157406,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1.jpg,0,0,0.4167757,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1449.jpg,0,0,0.50086623,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1849.jpg,0,0,0.4227973,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem245.jpg,0,1,0.33728594,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem836.jpg,0,0,0.42198756,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1769.jpg,0,1,0.3485805,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1425.jpg,0,0,0.53678983,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1966.jpg,0,0,0.32596,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/29 (91).jpg,0,0,0.3850034,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/26 (65).jpg,0,1,0.3349885,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1429.jpg,0,0,0.43779415,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem265.jpg,0,0,0.4328825,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1939.jpg,0,0,0.37086758,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem307.jpg,0,0,0.40376458,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem580.jpg,0,0,0.36057994,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem93.jpg,0,1,0.34849784,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem913.jpg,0,0,0.34507006,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1640.jpg,0,0,0.44596657,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1210.jpg,0,0,0.5474,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (96).jpg,0,0,0.47617194,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1717.jpg,0,0,0.44317192,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1094.jpg,0,0,0.45669457,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem54.jpg,0,1,0.31657052,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1682.jpg,0,0,0.45166412,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1895.jpg,0,0,0.50625414,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem975.jpg,0,0,0.5082996,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1340.jpg,0,0,0.42659125,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1011.jpg,0,0,0.47151822,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem635.jpg,0,0,0.39846388,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem930.jpg,0,0,0.4049402,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem272.jpg,0,0,0.32953787,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1587.jpg,0,0,0.3429954,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1133.jpg,0,0,0.5135062,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1297.jpg,0,0,0.30966413,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1391.jpg,0,0,0.345265,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2056.jpg,0,0,0.3226038,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1204.jpg,0,0,0.52668136,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1280.jpg,0,1,0.349218,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/30 (57).jpg,0,0,0.481269,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem457.jpg,0,0,0.4824858,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1519.jpg,0,0,0.35371903,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem920.jpg,0,0,0.42960086,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/30 (36).jpg,0,0,0.4026839,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem252.jpg,0,0,0.47048002,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2460.jpg,0,1,0.302308,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1034.jpg,0,0,0.5282235,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1758.jpg,0,0,0.46489206,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2300.jpg,0,0,0.39507362,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2487.jpg,0,0,0.37083635,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem718.jpg,0,0,0.37471887,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/26 (80).jpg,0,0,0.37452567,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem715.jpg,0,2,0.37458214,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1213.jpg,0,0,0.3901734,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1281.jpg,0,0,0.50089425,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem495.jpg,0,0,0.48388225,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1190.jpg,0,0,0.4516718,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1113.jpg,0,0,0.39572382,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem987.jpg,0,0,0.35468686,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1395.jpg,0,0,0.4868554,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2507.jpg,0,2,0.417983,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem209.jpg,0,0,0.45736957,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1932.jpg,0,0,0.39738995,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/30 (67).jpg,0,0,0.46233612,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/27 (62).jpg,0,0,0.3654105,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2539.jpg,0,0,0.37338918,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem618.jpg,0,0,0.36274898,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2050.jpg,0,1,0.35921192,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/27 (81).jpg,0,0,0.391529,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem660.jpg,0,0,0.31962937,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem322.jpg,0,2,0.36900118,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1592.jpg,0,0,0.4181229,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem875.jpg,0,0,0.5120023,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem835.jpg,0,0,0.4196929,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1654.jpg,0,0,0.3427063,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (85).jpg,0,0,0.4242126,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1716.jpg,0,0,0.3784555,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1843.jpg,0,0,0.3670867,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem687.jpg,0,0,0.3274518,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem943.jpg,0,0,0.35237002,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (23).jpg,0,1,0.38047627,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1285.jpg,0,0,0.52875113,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem823.jpg,0,1,0.34363338,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2137.jpg,0,0,0.47216254,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1468.jpg,0,1,0.31592855,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1488.jpg,0,0,0.43581387,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2471.jpg,0,1,0.36761352,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (51).jpg,0,1,0.35953274,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (30).jpg,0,1,0.33903044,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1173.jpg,0,0,0.4576872,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1199.jpg,0,0,0.3317753,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2194.jpg,0,0,0.4357343,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2524.jpg,0,0,0.5202188,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1318.jpg,0,0,0.35753202,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1982.jpg,0,0,0.46628478,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem328.jpg,0,1,0.38791108,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem577.jpg,0,0,0.4912885,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2004.jpg,0,0,0.5105365,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1959.jpg,0,0,0.4481253,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1712.jpg,0,0,0.41420934,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem13.jpg,0,1,0.34682,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem551.jpg,0,0,0.40307778,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem327.jpg,0,0,0.4625617,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem385.jpg,0,0,0.4683141,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem421.jpg,0,0,0.36341906,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem732.jpg,0,0,0.39970717,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem240.jpg,0,0,0.38337088,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2451.jpg,0,1,0.33104774,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem398.jpg,0,0,0.36019063,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem47.jpg,0,1,0.32210055,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (15).jpg,0,0,0.3244764,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem58.jpg,0,0,0.3824763,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem927.jpg,0,0,0.47636032,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2017.jpg,0,0,0.42491624,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1396.jpg,0,0,0.47366163,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2264.jpg,0,1,0.39055547,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1799.jpg,0,1,0.32595423,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1329.jpg,0,0,0.4480774,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1562.jpg,0,0,0.4646159,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1946.jpg,0,0,0.43979895,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1110.jpg,0,0,0.53293085,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1155.jpg,0,0,0.45343208,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1652.jpg,0,0,0.45183948,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (71).jpg,0,1,0.36841345,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1286.jpg,0,0,0.4756541,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1540.jpg,0,0,0.43584347,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1145.jpg,0,0,0.37254474,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem420.jpg,0,0,0.46070683,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1332.jpg,0,0,0.41572833,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1526.jpg,0,0,0.376402,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem746.jpg,0,0,0.4368119,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1720.jpg,0,0,0.46249282,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2038.jpg,0,0,0.5266362,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2312.jpg,0,0,0.4075449,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem246.jpg,0,0,0.37310195,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2513.jpg,0,0,0.4542161,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem270.jpg,0,0,0.38291928,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2130.jpg,0,0,0.3919555,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem43.jpg,0,0,0.33915716,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem79.jpg,0,0,0.42234722,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1002.jpg,0,1,0.32431015,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2349.jpg,0,0,0.45830122,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1036.jpg,0,0,0.4008462,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem725.jpg,0,0,0.5637953,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/28 (15).jpg,0,1,0.3549685,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/31 (33).jpg,0,1,0.36526722,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/29 (35).jpg,0,1,0.33140627,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2205.jpg,0,0,0.5559451,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1139.jpg,0,0,0.35438052,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/32 (51).jpg,0,0,0.40836576,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1776.jpg,0,0,0.5450887,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2493.jpg,0,2,0.34443113,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1014.jpg,0,0,0.48919973,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem2122.jpg,0,2,0.3341401,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/NonDemented/nonDem1018.jpg,0,0,0.39085335,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem416.jpg,1,1,0.33768928,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem318.jpg,1,0,0.34494182,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem189.jpg,1,1,0.34554318,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (28).jpg,1,2,0.33702043,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem681.jpg,1,2,0.30736282,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem123.jpg,1,2,0.34607673,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem245.jpg,1,1,0.33734986,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1760.jpg,1,1,0.34684825,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1161.jpg,1,1,0.32674402,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/31 (40).jpg,1,1,0.34871835,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1415.jpg,1,2,0.36089015,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem187.jpg,1,2,0.42343256,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/31 (57).jpg,1,1,0.33462083,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem893.jpg,1,1,0.34740552,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem609.jpg,1,1,0.3422412,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem856.jpg,1,0,0.35350636,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem387.jpg,1,1,0.3516624,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1716.jpg,1,1,0.41757295,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/31 (53).jpg,1,1,0.33900866,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1255.jpg,1,2,0.3791626,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem728.jpg,1,0,0.31520343,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/31 (66).jpg,1,1,0.33859554,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1440.jpg,1,1,0.33011013,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1156.jpg,1,1,0.3273388,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem396.jpg,1,1,0.3277243,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem60.jpg,1,2,0.32015622,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem811.jpg,1,1,0.34434202,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1592.jpg,1,0,0.37837872,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem853.jpg,1,0,0.39301175,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1303.jpg,1,0,0.35525772,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem643.jpg,1,0,0.35409987,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1586.jpg,1,1,0.34094706,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem843.jpg,1,0,0.31986994,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem665.jpg,1,0,0.32841283,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32 (3).jpg,1,1,0.3716601,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem895.jpg,1,1,0.32212093,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32 (36).jpg,1,1,0.3481861,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem907.jpg,1,0,0.40357366,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1079.jpg,1,1,0.36178464,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem390.jpg,1,1,0.32671854,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem687.jpg,1,0,0.34968254,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem79.jpg,1,0,0.35129222,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem205.jpg,1,0,0.38671365,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/31 (36).jpg,1,1,0.3372097,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem423.jpg,1,0,0.39707178,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1162.jpg,1,0,0.37348384,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem265.jpg,1,1,0.3553093,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem272.jpg,1,1,0.35132703,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/31 (27).jpg,1,1,0.36147267,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1614.jpg,1,1,0.35077235,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem46.jpg,1,1,0.36868948,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1488.jpg,1,1,0.34169978,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem347.jpg,1,0,0.36130142,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem445.jpg,1,0,0.4369991,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1024.jpg,1,1,0.35545725,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1588.jpg,1,1,0.39054522,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem129.jpg,1,1,0.3335943,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (46).jpg,1,1,0.36997545,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32 (40).jpg,1,1,0.35381526,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/27 (67).jpg,1,1,0.35819897,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1312.jpg,1,0,0.4003664,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem64.jpg,1,0,0.38430732,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem909.jpg,1,0,0.3394261,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32 (46).jpg,1,1,0.3603766,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1532.jpg,1,1,0.35259724,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem105.jpg,1,0,0.32296097,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1239.jpg,1,1,0.3381231,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem678.jpg,1,1,0.38040912,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem472.jpg,1,0,0.45130867,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem756.jpg,1,1,0.33059683,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/29 (14).jpg,1,1,0.32547042,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1033.jpg,1,1,0.34663635,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/29 (65).jpg,1,1,0.36701688,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1085.jpg,1,0,0.3168656,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1048.jpg,1,1,0.34100372,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem201.jpg,1,0,0.363302,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1372.jpg,1,0,0.35808933,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (64).jpg,1,1,0.35781273,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1446.jpg,1,1,0.34265038,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1129.jpg,1,0,0.36602178,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem984.jpg,1,0,0.34490833,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem217.jpg,1,2,0.3784721,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem794.jpg,1,1,0.3461265,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1469.jpg,1,0,0.37241375,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (21).jpg,1,1,0.33133906,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1273.jpg,1,0,0.42853838,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem835.jpg,1,0,0.38600543,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem63.jpg,1,0,0.400333,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem248.jpg,1,1,0.36462057,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem138.jpg,1,1,0.35228214,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1689.jpg,1,0,0.3404092,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem881.jpg,1,1,0.3207602,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem542.jpg,1,0,0.438913,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem117.jpg,1,2,0.39692056,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1629.jpg,1,2,0.40673316,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem208.jpg,1,2,0.32883376,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1774.jpg,1,2,0.3533873,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1572.jpg,1,1,0.4029101,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem136.jpg,1,1,0.3188502,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem439.jpg,1,2,0.40789717,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1112.jpg,1,0,0.36409247,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1054.jpg,1,0,0.36298472,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem637.jpg,1,2,0.36174738,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/27 (19).jpg,1,0,0.3556313,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1733.jpg,1,2,0.36063498,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem366.jpg,1,0,0.38882837,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem564.jpg,1,0,0.36026537,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1555.jpg,1,2,0.4397843,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1221.jpg,1,1,0.3470323,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/30 (44).jpg,1,1,0.3679678,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem581.jpg,1,2,0.37171856,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1667.jpg,1,1,0.37158024,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem134.jpg,1,0,0.36505446,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem352.jpg,1,0,0.4258609,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem629.jpg,1,1,0.3275715,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1606.jpg,1,1,0.38016614,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem921.jpg,1,0,0.34612587,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1216.jpg,1,0,0.35205922,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/29 (3).jpg,1,1,0.3606589,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem268.jpg,1,0,0.4351566,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem730.jpg,1,2,0.37401035,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1309.jpg,1,1,0.34343594,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1250.jpg,1,1,0.32371256,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1336.jpg,1,1,0.35825458,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem483.jpg,1,0,0.4119136,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (65).jpg,1,1,0.36251014,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1622.jpg,1,1,0.33447444,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem897.jpg,1,1,0.32790217,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1675.jpg,1,1,0.34685498,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem777.jpg,1,2,0.35343814,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1200.jpg,1,1,0.33934918,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem308.jpg,1,2,0.36456263,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem275.jpg,1,0,0.3752832,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem317.jpg,1,1,0.3592447,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/30 (64).jpg,1,1,0.34581178,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1386.jpg,1,1,0.36859035,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem551.jpg,1,0,0.36493862,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (61).jpg,1,1,0.36710814,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (55).jpg,1,2,0.3334751,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1776.jpg,1,1,0.35243165,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/27 (15).jpg,1,0,0.3991353,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem216.jpg,1,2,0.36377108,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1524.jpg,1,1,0.33773196,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem301.jpg,1,0,0.32407123,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1482.jpg,1,0,0.35284495,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/30 (61).jpg,1,1,0.37965998,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem721.jpg,1,2,0.34746706,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (7).jpg,1,1,0.33888587,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem256.jpg,1,1,0.3476527,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/29 (8).jpg,1,0,0.34827837,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/31 (20).jpg,1,1,0.38752073,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1247.jpg,1,1,0.3551128,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem496.jpg,1,1,0.32974312,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem43.jpg,1,0,0.3613442,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1226.jpg,1,1,0.34312654,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1730.jpg,1,1,0.35379773,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32 (10).jpg,1,0,0.42826036,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1347.jpg,1,1,0.33940524,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1409.jpg,1,1,0.31409383,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1220.jpg,1,2,0.36592677,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (66).jpg,1,0,0.32013404,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem191.jpg,1,1,0.34596816,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1439.jpg,1,1,0.3462082,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem555.jpg,1,0,0.33828706,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1094.jpg,1,0,0.36989483,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1074.jpg,1,1,0.34845054,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1485.jpg,1,2,0.41650385,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem389.jpg,1,1,0.35329354,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/30 (45).jpg,1,1,0.3547097,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem172.jpg,1,2,0.3667769,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1624.jpg,1,1,0.34992838,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem740.jpg,1,1,0.35380518,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1090.jpg,1,1,0.33947754,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/26 (62).jpg,1,1,0.36293042,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1719.jpg,1,1,0.33160496,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem128.jpg,1,0,0.42278594,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem570.jpg,1,1,0.33013034,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem709.jpg,1,1,0.34498715,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem541.jpg,1,2,0.3153223,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1093.jpg,1,0,0.34458232,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem986.jpg,1,1,0.34029874,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32 (7).jpg,1,0,0.3731503,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/29 (58).jpg,1,0,0.40860662,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem631.jpg,1,1,0.35787615,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem29.jpg,1,1,0.3419143,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/29 (21).jpg,1,1,0.33866793,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1737.jpg,1,1,0.36355126,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/30 (56).jpg,1,0,0.39557582,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem690.jpg,1,1,0.32968387,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem382.jpg,1,1,0.34357125,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem587.jpg,1,0,0.32690576,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem836.jpg,1,1,0.35040683,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem785.jpg,1,1,0.33487225,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem605.jpg,1,0,0.34498912,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32 (64).jpg,1,1,0.34856254,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem883.jpg,1,0,0.37916374,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem735.jpg,1,0,0.3252576,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1046.jpg,1,1,0.33777112,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1743.jpg,1,1,0.3514292,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/27 (6).jpg,1,1,0.34559667,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1734.jpg,1,1,0.3485663,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1539.jpg,1,1,0.3370323,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (29).jpg,1,1,0.33882475,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1038.jpg,1,0,0.39492163,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem15.jpg,1,1,0.3455116,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem363.jpg,1,0,0.33818573,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem404.jpg,1,1,0.31226015,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1530.jpg,1,1,0.3183352,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/31 (52).jpg,1,1,0.38963073,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem500.jpg,1,1,0.31717107,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem327.jpg,1,2,0.35448068,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1359.jpg,1,1,0.3641208,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1449.jpg,1,1,0.3330432,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32.jpg,1,1,0.35091242,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (54).jpg,1,1,0.43383655,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem861.jpg,1,1,0.3390803,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem231.jpg,1,1,0.3211244,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem333.jpg,1,2,0.40789098,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem321.jpg,1,1,0.3551152,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem675.jpg,1,0,0.33065465,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem276.jpg,1,1,0.3308423,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32 (27).jpg,1,1,0.3612066,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1128.jpg,1,1,0.32730323,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (22).jpg,1,0,0.3581958,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem485.jpg,1,0,0.32923836,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1676.jpg,1,1,0.37181306,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem798.jpg,1,1,0.33478993,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1000.jpg,1,2,0.36521256,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem464.jpg,1,0,0.32839844,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem745.jpg,1,0,0.38475332,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1192.jpg,1,0,0.42548013,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem456.jpg,1,2,0.34371972,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem630.jpg,1,0,0.4763245,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1699.jpg,1,2,0.39973286,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem474.jpg,1,1,0.33442193,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/30 (63).jpg,1,1,0.35504285,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/27 (31).jpg,1,1,0.3382511,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1304.jpg,1,1,0.353731,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem169.jpg,1,1,0.3569441,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem397.jpg,1,2,0.36285597,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem546.jpg,1,0,0.36878437,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem467.jpg,1,1,0.33435962,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem697.jpg,1,0,0.376097,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1284.jpg,1,1,0.33238378,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem220.jpg,1,1,0.37005308,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem139.jpg,1,1,0.33917177,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/26 (65).jpg,1,1,0.36938345,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1105.jpg,1,1,0.32471952,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem807.jpg,1,1,0.34189588,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem369.jpg,1,2,0.4287257,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem618.jpg,1,0,0.437706,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1547.jpg,1,1,0.32094988,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem181.jpg,1,2,0.34388515,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem540.jpg,1,0,0.40566912,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1092.jpg,1,0,0.37878004,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1498.jpg,1,2,0.3240669,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem801.jpg,1,1,0.36241424,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem729.jpg,1,1,0.34346372,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem718.jpg,1,0,0.32176065,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem970.jpg,1,0,0.3415216,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem677.jpg,1,2,0.32609466,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1581.jpg,1,1,0.3415533,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem74.jpg,1,1,0.35520968,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem767.jpg,1,0,0.3960722,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1358.jpg,1,2,0.2956177,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1666.jpg,1,0,0.3436205,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem770.jpg,1,0,0.46488014,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1133.jpg,1,0,0.38516244,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem738.jpg,1,1,0.33023515,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1325.jpg,1,2,0.35343006,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/30 (57).jpg,1,1,0.35030442,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1041.jpg,1,0,0.31515586,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1562.jpg,1,1,0.3300146,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/30 (36).jpg,1,2,0.3305267,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/26 (50).jpg,1,1,0.38266453,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem666.jpg,1,2,0.35421064,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem358.jpg,1,1,0.3571605,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem215.jpg,1,0,0.44831604,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem198.jpg,1,0,0.42175084,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/30 (67).jpg,1,1,0.3657706,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1212.jpg,1,1,0.32657155,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/27 (62).jpg,1,1,0.36756968,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem53.jpg,1,1,0.33667275,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1329.jpg,1,1,0.33620614,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1017.jpg,1,1,0.34807295,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem841.jpg,1,1,0.35278115,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem892.jpg,1,1,0.3544669,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem753.jpg,1,2,0.35973454,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/31 (23).jpg,1,1,0.38043264,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1075.jpg,1,0,0.44032982,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem900.jpg,1,1,0.34786245,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (51).jpg,1,0,0.35641634,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1181.jpg,1,0,0.3093278,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32 (30).jpg,1,2,0.3533259,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1384.jpg,1,1,0.31959435,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem285.jpg,1,0,0.40851435,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem188.jpg,1,1,0.33759534,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem668.jpg,1,1,0.34726223,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem658.jpg,1,1,0.31058443,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem430.jpg,1,0,0.3259869,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem372.jpg,1,1,0.300961,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1288.jpg,1,2,0.29981032,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem143.jpg,1,1,0.35562038,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1580.jpg,1,1,0.32843515,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem952.jpg,1,0,0.34319437,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1369.jpg,1,1,0.34910768,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1201.jpg,1,1,0.34656647,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32 (15).jpg,1,0,0.38497669,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem685.jpg,1,1,0.3611506,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem611.jpg,1,2,0.34514424,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1759.jpg,1,0,0.34802005,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem632.jpg,1,0,0.39399874,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1318.jpg,1,0,0.35590002,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1417.jpg,1,1,0.33815423,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem482.jpg,1,1,0.3328949,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1790.jpg,1,1,0.34899056,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1483.jpg,1,0,0.37247804,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem787.jpg,1,0,0.338635,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem762.jpg,1,1,0.33371276,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem38.jpg,1,0,0.3555215,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1570.jpg,1,2,0.4061314,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1127.jpg,1,2,0.33536857,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1504.jpg,1,2,0.35857818,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1484.jpg,1,0,0.33753496,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/28 (15).jpg,1,0,0.39555696,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/31 (33).jpg,1,0,0.43118387,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/29 (35).jpg,1,1,0.36388552,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1307.jpg,1,2,0.31673688,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/32 (51).jpg,1,0,0.404467,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1644.jpg,1,2,0.35745507,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem1377.jpg,1,2,0.3829889,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/VeryMildDemented/verymildDem891.jpg,1,0,0.33468938,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem682.jpg,2,2,0.51802385,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/28 (28).jpg,2,1,0.34442994,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem285.jpg,2,1,0.33703804,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem463.jpg,2,2,0.34472534,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem242.jpg,2,1,0.34241408,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem26.jpg,2,1,0.34793696,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem163.jpg,2,2,0.34427574,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem334.jpg,2,2,0.31986514,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem185.jpg,2,2,0.42552778,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem27.jpg,2,2,0.32528493,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem294.jpg,2,2,0.4457458,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem298.jpg,2,2,0.32094786,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/32 (3).jpg,2,1,0.38452223,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem650.jpg,2,2,0.37913734,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem502.jpg,2,2,0.3843337,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem532.jpg,2,2,0.40835035,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem177.jpg,2,2,0.35595602,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/31 (27).jpg,2,1,0.3273606,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem254.jpg,2,2,0.3591304,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem416.jpg,2,2,0.3333241,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem145.jpg,2,1,0.33074388,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem419.jpg,2,2,0.352654,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/29 (14).jpg,2,2,0.47724697,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem183.jpg,2,0,0.3309593,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem642.jpg,2,2,0.34028122,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem173.jpg,2,1,0.33997148,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem494.jpg,2,2,0.3940165,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem310.jpg,2,2,0.4140272,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/28 (21).jpg,2,2,0.3721773,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem531.jpg,2,2,0.35263348,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem348.jpg,2,2,0.4201944,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem366.jpg,2,2,0.3542931,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem509.jpg,2,2,0.3799464,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem248.jpg,2,2,0.36681476,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem293.jpg,2,2,0.29917252,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem327.jpg,2,2,0.3437401,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem378.jpg,2,2,0.43893042,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem301.jpg,2,2,0.46918976,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/27 (19).jpg,2,2,0.4286327,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem422.jpg,2,2,0.39236894,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem33.jpg,2,1,0.32554504,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem538.jpg,2,1,0.34289634,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/29 (3).jpg,2,1,0.34787458,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem308.jpg,2,2,0.51127136,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem397.jpg,2,2,0.38338962,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem60.jpg,2,2,0.42558452,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem434.jpg,2,2,0.43901148,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem214.jpg,2,1,0.3343196,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem192.jpg,2,0,0.3186114,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem6.jpg,2,1,0.33489284,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/26 (24).jpg,2,2,0.37208647,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem393.jpg,2,2,0.5135343,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/27 (15).jpg,2,2,0.3745868,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem52.jpg,2,2,0.3769388,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem572.jpg,2,1,0.32194707,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/28 (7).jpg,2,2,0.38654774,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/29 (8).jpg,2,2,0.44145098,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem347.jpg,2,2,0.4230262,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem464.jpg,2,2,0.33145958,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/31 (20).jpg,2,2,0.34755212,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem87.jpg,2,2,0.3897773,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem512.jpg,2,2,0.33184627,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem128.jpg,2,2,0.35664716,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem584.jpg,2,2,0.45158482,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem217.jpg,2,2,0.3887276,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/32 (10).jpg,2,1,0.32949382,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem315.jpg,2,2,0.41018236,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem513.jpg,2,2,0.45548895,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem358.jpg,2,2,0.3627787,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem77.jpg,2,2,0.41319543,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem61.jpg,2,1,0.33061796,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem196.jpg,2,2,0.52934265,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/32 (7).jpg,2,1,0.32604182,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem711.jpg,2,2,0.4098428,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem352.jpg,2,2,0.37522596,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/29 (21).jpg,2,1,0.3327698,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/26 (19).jpg,2,2,0.40877885,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem302.jpg,2,2,0.36706755,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem126.jpg,2,2,0.44295686,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/27 (6).jpg,2,2,0.32801628,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem140.jpg,2,2,0.4572864,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/32.jpg,2,1,0.36127993,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem521.jpg,2,2,0.31069955,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem211.jpg,2,1,0.3125536,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/32 (27).jpg,2,1,0.33891267,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/28 (22).jpg,2,2,0.39755479,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem426.jpg,2,1,0.33808357,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem330.jpg,2,2,0.39137703,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem634.jpg,2,2,0.3696132,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem113.jpg,2,2,0.40364897,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem421.jpg,2,2,0.504105,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem220.jpg,2,2,0.30874524,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem673.jpg,2,2,0.4331805,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem261.jpg,2,2,0.37405902,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem213.jpg,2,2,0.45603168,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem250.jpg,2,2,0.31510025,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem704.jpg,2,2,0.5068058,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem299.jpg,2,1,0.312637,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem713.jpg,2,2,0.35068047,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem598.jpg,2,2,0.4848092,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem182.jpg,2,2,0.37106103,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem533.jpg,2,2,0.47028595,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem637.jpg,2,2,0.3900438,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem601.jpg,2,2,0.44689342,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem408.jpg,2,2,0.39697793,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem278.jpg,2,2,0.32643014,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem69.jpg,2,1,0.3250827,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem654.jpg,2,2,0.5353513,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/31 (23).jpg,2,2,0.36727718,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem470.jpg,2,2,0.41470307,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem618.jpg,2,2,0.4177857,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem657.jpg,2,2,0.42682463,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem222.jpg,2,2,0.3375321,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem256.jpg,2,2,0.42468607,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/32 (15).jpg,2,1,0.3435462,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem44.jpg,2,2,0.3949958,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem703.jpg,2,2,0.40402275,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem641.jpg,2,2,0.44299793,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem549.jpg,2,0,0.32617754,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem8.jpg,2,0,0.30342934,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem491.jpg,2,2,0.3390563,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem716.jpg,2,2,0.36406025,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem544.jpg,2,1,0.32692724,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem684.jpg,2,2,0.34507668,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/28 (15).jpg,2,1,0.31985033,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem707.jpg,2,2,0.39252076,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem691.jpg,2,1,0.336686,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem455.jpg,2,2,0.37168434,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem610.jpg,2,2,0.41928995,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/MildDemented/mildDem153.jpg,2,1,0.3474785,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/ModerateDemented/moderateDem49.jpg,3,3,0.42659098,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/ModerateDemented/moderateDem2.jpg,3,2,0.32820666,False
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/ModerateDemented/moderateDem6.jpg,3,3,0.48762608,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/ModerateDemented/32.jpg,3,3,0.28131458,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/ModerateDemented/moderateDem47.jpg,3,3,0.3878085,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/ModerateDemented/moderateDem50.jpg,3,3,0.49584696,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/ModerateDemented/moderateDem33.jpg,3,3,0.48372638,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/ModerateDemented/moderateDem28.jpg,3,3,0.48387963,True
+/kaggle/input/datasets/uraninjo/augmented-alzheimer-mri-dataset/OriginalDataset/ModerateDemented/moderateDem8.jpg,3,3,0.41563967,True

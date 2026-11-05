@@ -1,0 +1,322 @@
+[
+  {
+    "case_id": 0,
+    "mri_file": "case_000_mri.png",
+    "panel_file": "case_000_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.6648,
+    "model_probs": {
+      "NonDemented": 0.0222,
+      "VeryMildDemented": 0.3057,
+      "MildDemented": 0.6648,
+      "ModerateDemented": 0.0073
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 1,
+    "mri_file": "case_001_mri.png",
+    "panel_file": "case_001_review_panel.png",
+    "model_pred": "VeryMildDemented",
+    "model_conf": 0.6198,
+    "model_probs": {
+      "NonDemented": 0.1786,
+      "VeryMildDemented": 0.6198,
+      "MildDemented": 0.1925,
+      "ModerateDemented": 0.0091
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 2,
+    "mri_file": "case_002_mri.png",
+    "panel_file": "case_002_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.8777,
+    "model_probs": {
+      "NonDemented": 0.0065,
+      "VeryMildDemented": 0.1062,
+      "MildDemented": 0.8777,
+      "ModerateDemented": 0.0095
+    },
+    "true_label": "MildDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 3,
+    "mri_file": "case_003_mri.png",
+    "panel_file": "case_003_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.8532,
+    "model_probs": {
+      "NonDemented": 0.0112,
+      "VeryMildDemented": 0.1238,
+      "MildDemented": 0.8532,
+      "ModerateDemented": 0.0118
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 4,
+    "mri_file": "case_004_mri.png",
+    "panel_file": "case_004_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.7656,
+    "model_probs": {
+      "NonDemented": 0.0088,
+      "VeryMildDemented": 0.2101,
+      "MildDemented": 0.7656,
+      "ModerateDemented": 0.0154
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 5,
+    "mri_file": "case_005_mri.png",
+    "panel_file": "case_005_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.7011,
+    "model_probs": {
+      "NonDemented": 0.018,
+      "VeryMildDemented": 0.266,
+      "MildDemented": 0.7011,
+      "ModerateDemented": 0.0148
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 6,
+    "mri_file": "case_006_mri.png",
+    "panel_file": "case_006_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.6855,
+    "model_probs": {
+      "NonDemented": 0.0464,
+      "VeryMildDemented": 0.2441,
+      "MildDemented": 0.6855,
+      "ModerateDemented": 0.024
+    },
+    "true_label": "VeryMildDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 7,
+    "mri_file": "case_007_mri.png",
+    "panel_file": "case_007_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.8556,
+    "model_probs": {
+      "NonDemented": 0.0289,
+      "VeryMildDemented": 0.1009,
+      "MildDemented": 0.8556,
+      "ModerateDemented": 0.0146
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 8,
+    "mri_file": "case_008_mri.png",
+    "panel_file": "case_008_review_panel.png",
+    "model_pred": "VeryMildDemented",
+    "model_conf": 0.6804,
+    "model_probs": {
+      "NonDemented": 0.1383,
+      "VeryMildDemented": 0.6804,
+      "MildDemented": 0.1481,
+      "ModerateDemented": 0.0332
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 9,
+    "mri_file": "case_009_mri.png",
+    "panel_file": "case_009_review_panel.png",
+    "model_pred": "NonDemented",
+    "model_conf": 0.6432,
+    "model_probs": {
+      "NonDemented": 0.6432,
+      "VeryMildDemented": 0.2827,
+      "MildDemented": 0.06,
+      "ModerateDemented": 0.0141
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 10,
+    "mri_file": "case_010_mri.png",
+    "panel_file": "case_010_review_panel.png",
+    "model_pred": "VeryMildDemented",
+    "model_conf": 0.6019,
+    "model_probs": {
+      "NonDemented": 0.0465,
+      "VeryMildDemented": 0.6019,
+      "MildDemented": 0.3403,
+      "ModerateDemented": 0.0112
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 11,
+    "mri_file": "case_011_mri.png",
+    "panel_file": "case_011_review_panel.png",
+    "model_pred": "NonDemented",
+    "model_conf": 0.3526,
+    "model_probs": {
+      "NonDemented": 0.3526,
+      "VeryMildDemented": 0.3422,
+      "MildDemented": 0.2926,
+      "ModerateDemented": 0.0126
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 12,
+    "mri_file": "case_012_mri.png",
+    "panel_file": "case_012_review_panel.png",
+    "model_pred": "VeryMildDemented",
+    "model_conf": 0.5144,
+    "model_probs": {
+      "NonDemented": 0.0569,
+      "VeryMildDemented": 0.5144,
+      "MildDemented": 0.4184,
+      "ModerateDemented": 0.0103
+    },
+    "true_label": "VeryMildDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 13,
+    "mri_file": "case_013_mri.png",
+    "panel_file": "case_013_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.4271,
+    "model_probs": {
+      "NonDemented": 0.2046,
+      "VeryMildDemented": 0.3568,
+      "MildDemented": 0.4271,
+      "ModerateDemented": 0.0115
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 14,
+    "mri_file": "case_014_mri.png",
+    "panel_file": "case_014_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.8353,
+    "model_probs": {
+      "NonDemented": 0.0638,
+      "VeryMildDemented": 0.0913,
+      "MildDemented": 0.8353,
+      "ModerateDemented": 0.0096
+    },
+    "true_label": "VeryMildDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 15,
+    "mri_file": "case_015_mri.png",
+    "panel_file": "case_015_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.499,
+    "model_probs": {
+      "NonDemented": 0.0579,
+      "VeryMildDemented": 0.4277,
+      "MildDemented": 0.499,
+      "ModerateDemented": 0.0155
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 16,
+    "mri_file": "case_016_mri.png",
+    "panel_file": "case_016_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.6117,
+    "model_probs": {
+      "NonDemented": 0.0396,
+      "VeryMildDemented": 0.3267,
+      "MildDemented": 0.6117,
+      "ModerateDemented": 0.0219
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 17,
+    "mri_file": "case_017_mri.png",
+    "panel_file": "case_017_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.9461,
+    "model_probs": {
+      "NonDemented": 0.0076,
+      "VeryMildDemented": 0.0365,
+      "MildDemented": 0.9461,
+      "ModerateDemented": 0.0098
+    },
+    "true_label": "MildDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 18,
+    "mri_file": "case_018_mri.png",
+    "panel_file": "case_018_review_panel.png",
+    "model_pred": "MildDemented",
+    "model_conf": 0.6691,
+    "model_probs": {
+      "NonDemented": 0.2347,
+      "VeryMildDemented": 0.081,
+      "MildDemented": 0.6691,
+      "ModerateDemented": 0.0152
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  },
+  {
+    "case_id": 19,
+    "mri_file": "case_019_mri.png",
+    "panel_file": "case_019_review_panel.png",
+    "model_pred": "VeryMildDemented",
+    "model_conf": 0.5694,
+    "model_probs": {
+      "NonDemented": 0.0873,
+      "VeryMildDemented": 0.5694,
+      "MildDemented": 0.328,
+      "ModerateDemented": 0.0153
+    },
+    "true_label": "NonDemented",
+    "expert_rating": null,
+    "expert_notes": ""
+  }
+]

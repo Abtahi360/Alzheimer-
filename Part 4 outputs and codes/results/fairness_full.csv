@@ -1,0 +1,11 @@
+subgroup,n,accuracy,f1_macro,balanced_acc,auc_macro
+stage:NonDemented,67702,0.0282,0.0183,0.0282,
+stage:VeryMildDemented,14057,0.3861,0.1857,0.3861,
+stage:MildDemented,5132,0.7264,0.2805,0.7264,
+stage:ModerateDemented,497,0.0161,0.0106,0.0161,
+site:external,951,0.6856,0.7301,0.7345,0.8936
+site:oasis,86437,0.1206,0.0971,0.2829,0.6916
+sex:F,43694,0.1262,0.1107,0.2889,0.6907
+sex:M,43694,0.1272,0.1079,0.2895,0.6957
+age:young-old(60-74),43700,0.1258,0.1007,0.2839,0.693
+age:old-old(75+),43688,0.1276,0.1186,0.295,0.6934

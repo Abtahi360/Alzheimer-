@@ -1,0 +1,10 @@
+{
+  "XAI heatmaps highlight hippocampus": "Verify in review panels",
+  "XAI heatmaps highlight entorhinal cortex": "Verify in review panels",
+  "Model avoids background/skull focus": "Check elliptical mask excludes skull",
+  "High-confidence errors reviewed": "See error_gallery from Step 23",
+  "Adjacent-stage errors clinically plausible": "Verify VeryMild<->Mild boundaries",
+  "Expert agreement kappa > 0.60": "Substantial agreement threshold",
+  "Blinded review completed for 20 cases": "See clinical_review/manifest.json",
+  "Kappa results documented in paper": "Table in Results section"
+}

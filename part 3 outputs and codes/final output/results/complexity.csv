@@ -1,0 +1,5 @@
+,total_params_M,trainable_params_M,inference_ms,gpu_mem_MB,fl_comm_cost_MB
+Centralized,99.63,64.94,52.379,2444.0,380.06787109375
+FedAvg,99.63,64.94,54.82,2444.0,380.06787109375
+FedProx,99.63,64.94,57.284,2444.0,380.06787109375
+FedBN,99.63,64.94,55.444,2444.0,380.06787109375

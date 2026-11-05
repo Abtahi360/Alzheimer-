@@ -1,0 +1,22 @@
+{
+  "McNemar_FedBN_vs_Central": {
+    "stat": 198.6401515151515,
+    "p": 4.13605416405338e-45
+  },
+  "McNemar_FedBN_vs_FedAvg": {
+    "stat": 0.07272727272727272,
+    "p": 0.7874064906662693
+  },
+  "Wilcoxon_FedBN_vs_Central": {
+    "stat": 0.0,
+    "p": 3.257928897202364e-157
+  },
+  "Wilcoxon_FedBN_vs_FedAvg": {
+    "stat": 115178.0,
+    "p": 2.5372289986431133e-39
+  },
+  "PairedTtest_FedBN_vs_Central": {
+    "t": NaN,
+    "p": NaN
+  }
+}

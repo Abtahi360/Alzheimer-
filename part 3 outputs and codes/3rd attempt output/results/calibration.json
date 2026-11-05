@@ -1,0 +1,14 @@
+{
+  "ECE_before": 0.3484973155272504,
+  "ECE_after": 0.39000387831280625,
+  "Brier_before": 0.1359285081923496,
+  "Brier_after": 0.14862756966812696,
+  "ECE_improvement_pct": -4.15,
+  "Temperature": 1.4167147874832153,
+  "per_class_ECE": {
+    "NonDemented": 0.2867784481427471,
+    "VeryMildDemented": 0.2030297968088197,
+    "MildDemented": 0.30661263671339456,
+    "ModerateDemented": 0.4498975309560273
+  }
+}

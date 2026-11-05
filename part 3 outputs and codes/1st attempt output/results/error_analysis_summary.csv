@@ -1,0 +1,5 @@
+,model,split,n_total,accuracy,n_errors,false_negatives,false_positives,adj_confusions,hi_conf_errors
+Centralized_internal,Centralized,centralized_internal,951,0.6856,299,109,109,271,0
+Centralized_external,Centralized,centralized_external,86437,0.1206,76016,3,65684,41120,0
+FedBN_internal,FedBN,fedbn_internal,951,0.9274,69,30,29,61,10
+FedBN_external,FedBN,fedbn_external,86437,0.2211,67325,71,55807,20399,9711
